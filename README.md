@@ -1,8 +1,15 @@
-how to run this server using nodejs:
+# how to run this server using nodejs:
 Run these commands:
 `npm i`
 `node index.js`
 Connect to http://localhost:3000/
+
+# how to record high quality audio:
+In options UI on website, change these values:
+numberOfChannels=2
+bitDepth=32
+Record audio, save as WAV
+
 
 # Opus & Wave Recorder
 
