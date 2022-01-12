@@ -49,5 +49,8 @@
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  }
 }

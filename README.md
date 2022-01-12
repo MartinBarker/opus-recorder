@@ -1,3 +1,9 @@
+how to run this server using nodejs:
+Run these commands:
+`npm i`
+`node index.js`
+Connect to http://localhost:3000/
+
 # Opus & Wave Recorder
 
 A javascript library to encode the output of Web Audio API nodes in Ogg Opus or WAV format using WebAssembly.
