@@ -10,6 +10,9 @@ numberOfChannels=2
 bitDepth=32
 Record audio, save as WAV
 
+# example output recording:
+![image](https://user-images.githubusercontent.com/27025504/149192208-dcbdea56-7453-4413-8edb-fcccb77573de.png)
+
 
 # Opus & Wave Recorder
 
